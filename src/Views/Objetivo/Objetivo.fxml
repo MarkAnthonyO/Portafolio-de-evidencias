@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="720.0" prefWidth="1280.0" stylesheets="@../style.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutY="-8.0" styleClass="title" text="Objetivo" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+      <Label layoutY="61.0" styleClass="txt" text="Desarrollar un portafolio de evidencias a través de las tareas realizadas de la materia de modelos de gestión empresarial para mostrar el aprendizaje logrado." wrapText="true" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="61.0" />
+   </children>
+</AnchorPane>

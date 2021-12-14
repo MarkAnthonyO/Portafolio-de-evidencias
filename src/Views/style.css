@@ -1,0 +1,65 @@
+.label {
+    -fx-alignment: center;
+}
+
+.title {
+    -fx-background-color: #844587;
+    -fx-text-fill: #ffffff;
+    -fx-padding: 5px;
+    -fx-font-size: 35px;
+}
+
+.subtitle {
+    -fx-text-fill: #844587;
+    -fx-padding: 5px;
+    -fx-font-size: 30px;
+}
+
+.txt {
+    -fx-text-fill: #000000;
+    -fx-padding: 5px;
+    -fx-font-size: 25px;
+}
+
+.txt-portada {
+    -fx-text-fill: #ffffff;
+    -fx-padding: 5px;
+    -fx-font-size: 25px;
+}
+
+.BG {
+    -fx-background-color: #ffffff;
+}
+
+.BG-portada {
+    -fx-background-image: url("Portada/BG.png");
+}
+
+.navBar {
+    -fx-background-color: #844587;
+}
+
+.btn {
+    -fx-background-color: #844587;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 25px;
+}
+
+.btn:hover {
+    -fx-background-color: #5b305d;
+    -fx-text-fill: #ffffff;
+    -fx-cursor: hand;
+}
+
+.btn-reload {
+    -fx-background-color: #844587;
+    -fx-background-image: url("Reload.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 40px;
+}
+
+.btn-reload:hover {
+    -fx-background-color: #5b305d;
+    -fx-cursor: hand;
+}

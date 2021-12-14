@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="720.0" prefWidth="1280.0" stylesheets="@../style.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutY="6.0" styleClass="title" text="Cierre del portafolio" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+      <Label layoutY="61.0" styleClass="subtitle" text="Aprendizajes" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="61.0" />
+      <TextArea layoutY="116.0" prefHeight="200.0" prefWidth="200.0" styleClass="txt" text="1.- Aprendi que existen varios tipos de empresas cada una orientada a un sector distinto para distintos beneficios.&#10;2.- Aprendi que durante el paso del tiempo las empresas tuvieron que empezar a cambiar sus estrategias para mantener a sus empleados fieles a ellos.&#10;3.- Aprendi que para que una empresa funcione necesita de varias partes para mantenerse organizada y funcionando correctamente tanto socialmente como economicamente.&#10;4.- Aprendi que las empresas se han tenido que adaptar a las nuevas tecnologias con el paso del tiempo para tener un flujo de trabajo mas eficiente." wrapText="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="116.0" />
+   </children>
+</AnchorPane>

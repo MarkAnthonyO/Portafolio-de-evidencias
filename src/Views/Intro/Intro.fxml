@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="720.0" prefWidth="1280.0" styleClass="BG" stylesheets="@../style.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="210.0" layoutY="55.0" styleClass="title" text="Introducción" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+      <ScrollPane fitToHeight="true" fitToWidth="true" hbarPolicy="NEVER" layoutY="61.0" prefHeight="647.0" prefWidth="1280.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="61.0">
+         <content>
+            <TextArea prefHeight="200.0" prefWidth="200.0" styleClass="txt" text="Modelos gestión empresarial&#10;Un modelo de gestión empresarial es un esquema o marco de referencia para la administración de una entidad. Los modelos de gestión pueden ser aplicados tanto en las empresas y negocios privados como en la administración pública. Esto quiere decir que los gobiernos tienen un modelo de gestión en el que se basan para desarrollar sus políticas y acciones, y con el cual pretenden alcanzar sus objetivos.&#10;El modelo de gestión que utilizan las organizaciones públicas es diferente al modelo de gestión del ámbito privado. Mientras que el segundo se basa en la obtención de ganancias económicas, el primero pone en juego otras cuestiones, como el bienestar social de la población.&#10;Considera elementos, medidas, estrategias y destrezas que pueden ser llevadas a cabo, con el fin de que una actividad económica o empresarial sea viable a nivel financiero.&#10;&#10;Organización&#10;Se define como se estructuran las actividades y se dan las relaciones de autoridad, de responsabilidad y la asignación de recursos para lograr lo que se ha planeado.&#10;&#10;Tipos de empresas&#10;1.- Pública&#10;2.- Privada&#10;3.- Cooperativas&#10;&#10;Contexto de vinculación próxima&#10;Son organizaciones que influyen en el desenvolvimiento de la organización.&#10;Por ejemplo: Clientes, proveedores o competidores.&#10;&#10;Contexto de vinculación intermedia&#10;Se refiere al espacio en el que actúan las organizaciones del mismo tipo. Por ejemplo: Químicas, farmacéuticas, alimenticio, automotriz, etc.&#10;&#10;Contexto de vinculación general&#10;Esta dado por el sistema político, social y cultural en el que actúan la organización.&#10;&#10;Ambiente político: Es el marco jurídico que reglamenta las acciones de las organizaciones.&#10;Ambiente cultural: Son los valores y formas de conducta general aceptados y que se practican.&#10;Ambiente social: Está formado por las actitudes, deseos y costumbres de las personas." wrapText="true" />
+         </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>
